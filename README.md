@@ -1,0 +1,2 @@
+# news
+news aggregate template
